@@ -1,6 +1,5 @@
-扫码加微信（微信ID：**a_java_boy3**），备注微人事，进群讨论。
-
-![微信ID：a_java_boy3](http://img.itboyhub.com/2020/ajavaboy3-a.jpeg)
+#### vhr 是一个脚手架，如需业务完整的项目，请移步这里->[TienChin](https://github.com/lenve/tienchin)
+#### 本项目已使用 SpringBoot3+Vue3 重构，地址：[https://github.com/lenve/vhr2.0](https://github.com/lenve/vhr2.0)
 
 ## 项目介绍
 
@@ -244,13 +243,7 @@ npm run build
 
 ## 其他资料
 
-关注公众号**江南一点雨**，专注于 Spring Boot+微服务，定期视频教程分享，关注后回复 2TB ，领取松哥为你精心准备的超 2TB 免费 Java 学习资源。
-
-![公众号二维码](http://www.javaboy.org/images/sb/javaboy.jpg)
-
 [50+ 项目需求文档](https://github.com/lenve/javadoc)
-
-[Java书单推荐](https://github.com/itwanger/JavaBooks)
 
 ## 参考
 
